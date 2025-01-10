@@ -1,0 +1,587 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\books.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\books.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\publishers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\publishers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\renewbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\renewbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\booknreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\booknreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\tickets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\tickets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\bookacceptance.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\bookacceptance.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\filters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\filters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\dataticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\dataticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\datapublisher.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\datapublisher.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\datacopy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\datacopy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\databook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\databook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\clientboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\clientboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\booksbyauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\booksbyauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\bookreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\bookreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\authors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\authors.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|d:\\3 \u043A\u0443\u0440\u0441\\bibliya\\bibliya\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\adminboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\adminboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\adminboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\adminboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|d:\\3 \u043A\u0443\u0440\u0441\\bibliya\\bibliya\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\tickets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\tickets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\databook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\databook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\bookacceptance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\bookacceptance.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\dataticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\dataticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\datacopy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\datacopy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\datapublisher.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\datapublisher.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\publishers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\publishers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\authors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\authors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\renewbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\renewbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\books.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\books.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\bookreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\bookreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\clientboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\clientboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\bibliya\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CB90464-CDCD-454E-BBED-FB60CDE1042E}|Bibliya\\Bibliya.csproj|solutionrelative:bibliya\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\App.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\App.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\App.xaml",
+              "RelativeToolTip": "Bibliya\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:20:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataBook.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataBook.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\DataBook.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataBook.xaml",
+              "RelativeToolTip": "Bibliya\\DataBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookAcceptance.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookAcceptance.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\BookAcceptance.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookAcceptance.xaml",
+              "RelativeToolTip": "Bibliya\\BookAcceptance.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:10.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataTicket.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataTicket.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\DataTicket.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataTicket.xaml",
+              "RelativeToolTip": "Bibliya\\DataTicket.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:10.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookAcceptance.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookAcceptance.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\BookAcceptance.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookAcceptance.xaml.cs",
+              "RelativeToolTip": "Bibliya\\BookAcceptance.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:10.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBook.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataBook.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\DataBook.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataBook.xaml.cs",
+              "RelativeToolTip": "Bibliya\\DataBook.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:10.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reg.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Reg.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Reg.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Reg.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Reg.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataCopy.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataCopy.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\DataCopy.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataCopy.xaml.cs",
+              "RelativeToolTip": "Bibliya\\DataCopy.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\App.config",
+              "RelativeDocumentMoniker": "Bibliya\\App.config",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\App.config",
+              "RelativeToolTip": "Bibliya\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-10T04:14:11.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminBoard.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\AdminBoard.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\AdminBoard.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\AdminBoard.xaml",
+              "RelativeToolTip": "Bibliya\\AdminBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bibliya\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Books.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Books.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Books.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Books.xaml.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAAFABAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Authors.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Authors.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\Authors.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Authors.xaml",
+              "RelativeToolTip": "Bibliya\\Authors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Publishers.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Publishers.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\Publishers.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Publishers.xaml",
+              "RelativeToolTip": "Bibliya\\Publishers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reg.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Reg.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\Reg.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Reg.xaml",
+              "RelativeToolTip": "Bibliya\\Reg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataPublisher.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataPublisher.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\DataPublisher.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataPublisher.xaml",
+              "RelativeToolTip": "Bibliya\\DataPublisher.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataCopy.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataCopy.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\DataCopy.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataCopy.xaml",
+              "RelativeToolTip": "Bibliya\\DataCopy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\MainWindow.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\MainWindow.xaml",
+              "RelativeToolTip": "Bibliya\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookReader.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookReader.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\BookReader.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookReader.xaml.cs",
+              "RelativeToolTip": "Bibliya\\BookReader.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publishers.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Publishers.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Publishers.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Publishers.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Publishers.xaml.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientBoard.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\ClientBoard.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\ClientBoard.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\ClientBoard.xaml.cs",
+              "RelativeToolTip": "Bibliya\\ClientBoard.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenewBook.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\RenewBook.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\RenewBook.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\RenewBook.xaml.cs",
+              "RelativeToolTip": "Bibliya\\RenewBook.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTicket.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataTicket.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\DataTicket.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataTicket.xaml.cs",
+              "RelativeToolTip": "Bibliya\\DataTicket.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RenewBook.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\RenewBook.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\RenewBook.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\RenewBook.xaml",
+              "RelativeToolTip": "Bibliya\\RenewBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksByAuthor.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BooksByAuthor.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\BooksByAuthor.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BooksByAuthor.xaml.cs",
+              "RelativeToolTip": "Bibliya\\BooksByAuthor.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Filters.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Filters.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Filters.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Filters.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Filters.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Authors.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Authors.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Authors.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Authors.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Authors.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataPublisher.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataPublisher.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\DataPublisher.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\DataPublisher.xaml.cs",
+              "RelativeToolTip": "Bibliya\\DataPublisher.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookNreader.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookNreader.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\BookNreader.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookNreader.xaml.cs",
+              "RelativeToolTip": "Bibliya\\BookNreader.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAE8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminBoard.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\AdminBoard.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\AdminBoard.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\AdminBoard.xaml.cs",
+              "RelativeToolTip": "Bibliya\\AdminBoard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Books.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Books.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\Books.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Books.xaml",
+              "RelativeToolTip": "Bibliya\\Books.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookReader.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookReader.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\BookReader.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\BookReader.xaml",
+              "RelativeToolTip": "Bibliya\\BookReader.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tickets.xaml.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Tickets.xaml.cs",
+              "RelativeDocumentMoniker": "Bibliya\\Tickets.xaml.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Tickets.xaml.cs",
+              "RelativeToolTip": "Bibliya\\Tickets.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:14:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClientBoard.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\ClientBoard.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\ClientBoard.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\ClientBoard.xaml",
+              "RelativeToolTip": "Bibliya\\ClientBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tickets.xaml",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Tickets.xaml",
+              "RelativeDocumentMoniker": "Bibliya\\Tickets.xaml",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441\\Bibliya\\Bibliya\\Tickets.xaml",
+              "RelativeToolTip": "Bibliya\\Tickets.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T04:14:11.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Bibliya.Reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bibliya"
+        mc:Ignorable="d"
+        Title="Reg" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid >
+        <TextBlock FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" >
+            Регистрация
+        </TextBlock>
+        <Button Width="100" Height="40" BorderBrush="#FFDDDDDD" Click="ToAuthorize_Click" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Bottom">Назад</Button>
+        <StackPanel Width="300" Margin="30">
+            <Label FontSize="16" Content="Выберите роль:"/>
+            <ComboBox FontSize="16" x:Name="RoleComboBox" Margin="0,0,0,10"></ComboBox>
+
+            <Label FontSize="16" Content="Ник:"/>
+            <TextBox Height="30" FontSize="16"  x:Name="NicknameTextBox" Margin="0,0,0,10" Width="300"/>
+
+            <Label FontSize="16" Content="Пароль:"/>
+            <PasswordBox Height="30" FontSize="16" x:Name="PasswordBox" Margin="0,0,0,20" Width="300"/>
+
+            <Label FontSize="16" Content="Подтвердите пароль:"/>
+            <PasswordBox Height="30" FontSize="16"  x:Name="RepeatPasswordBox" Margin="0,0,0,20" Width="300"/>
+
+            <Button FontSize="16"  Background="black" Foreground="White" FontWeight="Bold" Height="40" Margin="0,0,0,10" Click="Register_Click">Зарегистрироваться</Button>
+        </StackPanel>
+    </Grid>
+</Window>

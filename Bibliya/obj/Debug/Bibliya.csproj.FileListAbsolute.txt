@@ -1,0 +1,171 @@
+M:\repos\Bibliya\Bibliya\bin\Debug\Bibliya.exe.config
+M:\repos\Bibliya\Bibliya\bin\Debug\Bibliya.exe
+M:\repos\Bibliya\Bibliya\bin\Debug\Bibliya.pdb
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.AssemblyReference.cache
+M:\repos\Bibliya\Bibliya\obj\Debug\AdminBoard.g.cs
+M:\repos\Bibliya\Bibliya\obj\Debug\Books.g.cs
+M:\repos\Bibliya\Bibliya\obj\Debug\MainWindow.g.cs
+M:\repos\Bibliya\Bibliya\obj\Debug\Reg.g.cs
+M:\repos\Bibliya\Bibliya\obj\Debug\App.g.cs
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.cache
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.lref
+M:\repos\Bibliya\Bibliya\obj\Debug\AdminBoard.baml
+M:\repos\Bibliya\Bibliya\obj\Debug\Books.baml
+M:\repos\Bibliya\Bibliya\obj\Debug\MainWindow.baml
+M:\repos\Bibliya\Bibliya\obj\Debug\Reg.baml
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.g.resources
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.Properties.Resources.resources
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.GenerateResource.cache
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.CoreCompileInputs.cache
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.exe
+M:\repos\Bibliya\Bibliya\obj\Debug\Bibliya.pdb
+F:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe.config
+F:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe
+F:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.pdb
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.AssemblyReference.cache
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.SuggestedBindingRedirects.cache
+F:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.g.cs
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Books.g.cs
+F:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.g.cs
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.g.cs
+F:\3 курс\Bibliya\Bibliya\obj\Debug\App.g.cs
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.cache
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.lref
+F:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.baml
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Books.baml
+F:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.baml
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.baml
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.g.resources
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.Properties.Resources.resources
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.GenerateResource.cache
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.CoreCompileInputs.cache
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.exe
+F:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.pdb
+E:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe.config
+E:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe
+E:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.pdb
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.AssemblyReference.cache
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.SuggestedBindingRedirects.cache
+E:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Books.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Publishers.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Tickets.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\App.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.cache
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.lref
+E:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Books.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Publishers.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Tickets.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.g.resources
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.Properties.Resources.resources
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.GenerateResource.cache
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.CoreCompileInputs.cache
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.exe
+E:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.pdb
+E:\3 курс\Bibliya\Bibliya\obj\Debug\ClientBoard.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\ClientBoard.baml
+E:\3 курс\Bibliya\Bibliya\obj\Debug\DataBook.g.cs
+E:\3 курс\Bibliya\Bibliya\obj\Debug\DataBook.baml
+D:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe.config
+D:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.exe
+D:\3 курс\Bibliya\Bibliya\bin\Debug\Bibliya.pdb
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.AssemblyReference.cache
+D:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Books.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\ClientBoard.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataBook.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Publishers.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Tickets.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\App.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.cache
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.lref
+D:\3 курс\Bibliya\Bibliya\obj\Debug\AdminBoard.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Books.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\ClientBoard.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataBook.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\MainWindow.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Publishers.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Reg.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Tickets.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.g.resources
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.Properties.Resources.resources
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.GenerateResource.cache
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.CoreCompileInputs.cache
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.exe
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Bibliya.pdb
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataTicket.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataTicket.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataCopy.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataCopy.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Authors.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Authors.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BooksByAuthor.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BooksByAuthor.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookNreader.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookNreader.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookAcceptance.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookAcceptance.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Filters.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\Filters.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookReader.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\BookReader.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\RenewBook.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\RenewBook.baml
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataPublisher.g.cs
+D:\3 курс\Bibliya\Bibliya\obj\Debug\DataPublisher.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\bin\Debug\Bibliya.exe.config
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\bin\Debug\Bibliya.exe
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\bin\Debug\Bibliya.pdb
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.AssemblyReference.cache
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\AdminBoard.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Authors.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookAcceptance.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookNreader.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookReader.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Books.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BooksByAuthor.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\ClientBoard.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataBook.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataCopy.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataPublisher.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataTicket.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Filters.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\MainWindow.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Publishers.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Reg.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\RenewBook.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Tickets.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\App.g.cs
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.cache
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya_MarkupCompile.lref
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\AdminBoard.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Authors.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookAcceptance.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookNreader.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BookReader.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Books.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\BooksByAuthor.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\ClientBoard.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataBook.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataCopy.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataPublisher.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\DataTicket.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Filters.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\MainWindow.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Publishers.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Reg.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\RenewBook.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Tickets.baml
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.g.resources
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.Properties.Resources.resources
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.GenerateResource.cache
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.csproj.CoreCompileInputs.cache
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.exe
+C:\Users\durka\OneDrive\Desktop\Bibliya\Bibliya\obj\Debug\Bibliya.pdb
